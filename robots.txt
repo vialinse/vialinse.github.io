@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vialinse.github.io/sitemap.html.gz
+Sitemap: https://vialinse.github.io/app/sitemap.html.gz
+Sitemap: https://vialinse.github.io/assets/sitemap.html.gz
+Sitemap: https://vialinse.github.io/css/sitemap.html.gz
+Sitemap: https://vialinse.github.io/includes/sitemap.html.gz
+Sitemap: https://vialinse.github.io/item/sitemap.html.gz
+Sitemap: https://vialinse.github.io/src/sitemap.html.gz
